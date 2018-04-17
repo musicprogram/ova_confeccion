@@ -3,10 +3,10 @@
 	<div class="col s12 m6">
 		<ul class="collection with-header" id="list_videos">
 			<li class="collection-header"><h4>Videos de confección</h4></li>
-			<li class="collection-item"><div>1<a id="primer_video" class="secondary-content"><i class="material-icons">send</i></a></div></li>
-			<li class="collection-item"><div>2<a id="segundo_video" class="secondary-content"><i class="material-icons">send</i></a></div></li>
-			<li class="collection-item"><div>3<a href="#!" class="secondary-content"><i class="material-icons">send</i></a></div></li>
-			<li class="collection-item"><div>4<a href="#!" class="secondary-content"><i class="material-icons">send</i></a></div></li>
+			<li class="collection-item"><div>1<a id="primer_video" class="secondary-content grey-text  text-lighten-1"><i class="material-icons">send</i></a></div></li>
+			<li class="collection-item"><div>2<a id="segundo_video" class="secondary-content grey-text  text-lighten-1"><i class="material-icons">send</i></a></div></li>
+			<li class="collection-item"><div>3<a href="#!" class="secondary-content grey-text  text-lighten-1"><i class="material-icons">send</i></a></div></li>
+			<li class="collection-item"><div>4<a href="#!" class="secondary-content grey-text  text-lighten-1"><i class="material-icons">send</i></a></div></li>
 		</ul>
 
 
@@ -34,20 +34,20 @@
  		
         $('#primer_video').click(function(){
 	      $("#videos_confeccion").attr("src","https://vjs.zencdn.net/v/oceans.mp4");
-	      $('#videos_confeccion').get(0).play()
+	      $('#videos_confeccion').get(0).play();
 	    });  
 
         $('#segundo_video').click(function(){
 	      $("#videos_confeccion").attr("src","https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4");
-	      $('#videos_confeccion').get(0).play()
+	      $('#videos_confeccion').get(0).play();
 	    });
 
           /* cambiar el color del boton cuando se pasa de sección */
 	    $("ul#list_videos li a i").click(function() {
 	      // remove classes from all
-	      $("i").removeClass("orange-text");
+	      $("i").removeClass(" deep-purple-text text-darken-4");
 	      // add class to the one we clicked
-	      $(this).addClass("orange-text");
+	      $(this).addClass(" deep-purple-text text-darken-4");
 	    });
 
 
