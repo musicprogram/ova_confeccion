@@ -25,11 +25,11 @@
   <?php include_once 'pages/inicio/nav_inicio.php'?>
   
   <div class="container separar">
-
-    <?php include_once 'pages/inicio/dashboard.php'?>
+    <div id="main_content">
+      <?php include_once 'pages/inicio/dashboard.php'?>
+    </div>   
 
   </div>
-
 
 
 
