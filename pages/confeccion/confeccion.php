@@ -63,14 +63,13 @@
 
 
 	<div id="modal1" class="modal green-text">
-		<div class="modal-content">
-			<h4>Modal Header</h4>
+		<div class="modal-content deep-purple accent-2">
 			<p><div class="video-container">
 				<iframe width="1102" height="620" src="https://www.youtube.com/embed/mBjY4xCcd9o" frameborder="0" allowfullscreen id="videos_confeccion"></iframe>
 			</div></p>
 		</div>
-		<div class="modal-footer">
-			<a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Close</a>
+		<div class="modal-footer  deep-purple accent-4">
+			<a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat white-text">Cerrar</a>
 		</div>
 	</div>
 
@@ -101,11 +100,11 @@
 
 				/* cambiar el color del boton cuando se pasa de sección */
 				$("ul#list_videos li a i").click(function() {
-	      // remove classes from all
-	      $("i").removeClass(" deep-purple-text text-darken-4");
-	      // add class to the one we clicked
-	      $(this).addClass(" deep-purple-text text-darken-4");
-	    });
+  	      // remove classes from all
+  	      $("i").removeClass(" deep-purple-text text-darken-4");
+  	      // add class to the one we clicked
+  	      $(this).addClass(" deep-purple-text text-darken-4");
+  	    });
 
 
 

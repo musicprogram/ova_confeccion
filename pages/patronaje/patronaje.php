@@ -103,9 +103,9 @@
   $(function(){
 
       $('#back').click(function(){
-      $('#main_content').load('pages/inicio/dashboard.php').slideDown(560); 
-      $('#titulo_principal').html('OVA Confección');    
-    });  
+        $('#main_content').load('pages/inicio/dashboard.php').slideDown(560); 
+        $('#titulo_principal').html('OVA Confección');    
+      });  
  
   }); // end of document ready
 })(jQuery); // end of jQuery name space

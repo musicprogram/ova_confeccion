@@ -2,9 +2,7 @@
   (function($){
     $(function(){
 
-
       $('.tooltipped').tooltip();
-
 
       $('#patronaje').click(function(){
         $('#main_content').load('pages/patronaje/patronaje.php').slideDown(560);  
@@ -16,8 +14,10 @@
         $('#titulo_principal').html('Confección');
       }); 
 
-
-
+      $('#foro').click(function(){
+        $('#main_content').load('pages/foro/foro.php').slideDown(560);  
+        $('#titulo_principal').html('Foro');
+      });
 
   }); // end of document ready
 })(jQuery); // end of jQuery name space
@@ -141,14 +141,14 @@
 
 
  <div id="card-1" class="card ">
-  <div class="card-content separar center-align">
+  <div class="card-content separar center-align" id="foro">
     <header>
 
       <label class="title deep-purple-text text-darken-1 ">FORO</label>
     </header>
     <main>
 
-      <img src="images/ic_chat_128.png" alt="" class="responsive-img centrar">
+      <img src="images/ic_send_128.png" alt="" class="responsive-img centrar" >
 
     </main>
 
