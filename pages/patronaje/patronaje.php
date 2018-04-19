@@ -12,8 +12,8 @@
 
 
 <div class="row">
-  <div class="col s12 m2"></div>
-  <div class="col s12 m4">
+  <div class="col s12 m3"></div>
+  <div class="col s12 m3">
 
     <div class="circle z-depth-3 tooltipped" data-position="left" data-tooltip="PDF T punto" >
       <div class="circle__inner">
@@ -28,7 +28,7 @@
      </div>
    </div>
  </div>
- <div class="col s12 m4 tooltipped" data-position="right" data-tooltip="PDF T plano" >
+ <div class="col s12 m3 tooltipped" data-position="right" data-tooltip="PDF T plano" >
   <div class="circle z-depth-3">
     <div class="circle__inner">
       <div class="circle__wrapper">
@@ -41,9 +41,9 @@
     </div>
   </div>
 
-  <div class="col s12 m2"></div>
+  
 </div>
-
+<div class="col s12 m3"></div>
 </div>
 
 

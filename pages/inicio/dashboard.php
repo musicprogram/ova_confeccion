@@ -19,6 +19,12 @@
         $('#titulo_principal').html('Foro');
       });
 
+      $('#trazoycorte').click(function(){
+        $('#main_content').load('pages/trazoycorte/trazoycorte.php').slideDown(560);  
+        $('#titulo_principal').html('Trazo y Corte');
+      });
+      
+
   }); // end of document ready
 })(jQuery); // end of jQuery name space
 
@@ -75,7 +81,7 @@
 
 
  <div id="card-1" class="card ">
-  <div class="card-content separar center-align">
+  <div class="card-content separar center-align" id="trazoycorte">
     <header>
 
       <label class="title deep-purple-text text-darken-1 ">TRAZO Y CORTE</label>
