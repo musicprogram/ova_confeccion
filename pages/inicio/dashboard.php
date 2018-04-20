@@ -36,6 +36,10 @@
 
 </script>
 
+
+<script src="js/parallax.js"></script>
+
+
 <div class="row">
   <div class="col s12 m4">
 
@@ -45,11 +49,11 @@
 
           <label class="title deep-purple-text text-darken-1 ">PATRONAJE</label>
         </header>
-        <main>
+        <div class="scene5">
 
-          <img src="images/machine.png" alt="" class="responsive-img centrar">
+          <img src="images/machine.png" alt="" class="responsive-img centrar" data-depth="1.00">
 
-        </main>
+        </div>
 
       </div>
     </div>
@@ -63,11 +67,11 @@
 
         <label class="title deep-purple-text text-darken-1 ">CONFECCIÓN</label>
       </header>
-      <main>
+      <div class="scene4">
 
-        <img src="images/machine_blue.png" alt="" class="responsive-img centrar">
+        <img src="images/machine_blue.png" alt="" class="responsive-img centrar" data-depth="0.8">
 
-      </main>
+      </div>
 
     </div>
   </div>
@@ -86,11 +90,11 @@
 
       <label class="title deep-purple-text text-darken-1 ">TRAZO Y CORTE</label>
     </header>
-    <main>
+    <div class="scene3">
 
-      <img src="images/ic_content_cut_128.png" alt="" class="responsive-img centrar">
+      <img src="images/ic_content_cut_128.png" alt="" class="responsive-img centrar" data-depth="0.9">
 
-    </main>
+    </div >
 
   </div>
 </div>
@@ -110,11 +114,11 @@
 
         <label class="title deep-purple-text text-darken-1 ">FICHA TÉCNICA</label>
       </header>
-      <main>
+      <div class="scene2">
 
-        <img src="images/ic_assignment_turned_in_128.png" alt="" class="responsive-img centrar">
+        <img src="images/ic_assignment_turned_in_128.png" alt="" class="responsive-img centrar" data-depth="0.6">
 
-      </main>
+      </div>
 
     </div>
   </div>
@@ -131,11 +135,11 @@
 
       <label class="title deep-purple-text text-darken-1 ">EMPRESA</label>
     </header>
-    <main>
+    <div class="scene1">
 
-      <img src="images/ic_wallet_travel_128.png" alt="" class="responsive-img centrar">
+      <img src="images/ic_wallet_travel_128.png" alt="" class="responsive-img centrar" data-depth="0.7">
 
-    </main>
+    </div>
 
   </div>
 </div>
@@ -152,11 +156,11 @@
 
       <label class="title deep-purple-text text-darken-1 ">FORO</label>
     </header>
-    <main>
+    <div class="scene">
 
-      <img src="images/ic_send_128.png" alt="" class="responsive-img centrar" >
+      <img src="images/ic_send_128.png" alt="" class="responsive-img centrar" data-depth="0.8">
 
-    </main>
+    </div>
 
   </div>
 </div>
@@ -168,3 +172,26 @@
 
 
 
+
+
+
+<script>
+  var scene = $('.scene').get(0);
+  var parallaxInstance = new Parallax(scene);
+
+  var scene1 = $('.scene1').get(0);
+  var parallaxInstance = new Parallax(scene1);
+
+  var scene2 = $('.scene2').get(0);
+  var parallaxInstance = new Parallax(scene2);
+
+  var scene3 = $('.scene3').get(0);
+  var parallaxInstance = new Parallax(scene3);
+
+  var scene4 = $('.scene4').get(0);
+  var parallaxInstance = new Parallax(scene4);
+
+  var scene5 = $('.scene5').get(0);
+  var parallaxInstance = new Parallax(scene5);
+ 
+</script>
