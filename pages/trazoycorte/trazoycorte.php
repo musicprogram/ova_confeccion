@@ -78,14 +78,8 @@
         </thead>
 
         <tbody>
-          <tr>
-            <td>ver vídeo</td>
-         
-            <td>
-            	<a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1">
-            		<i class="material-icons Small">play_circle_outline</i>
-            	</a>
-            </td>
+          <tr id="ver_video">
+            
           </tr>
 
            <tr>
@@ -106,6 +100,48 @@
             	</a>
             </td>
           </tr>
+
+          <tr>
+            <td>Tercer vídeo</td>
+         
+            <td>
+              <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="tercer_video">
+                <i class="material-icons Small">play_circle_outline</i>
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>Cuarto vídeo</td>
+         
+            <td>
+              <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="cuarto_video">
+                <i class="material-icons Small">play_circle_outline</i>
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>Quinto vídeo</td>
+         
+            <td>
+              <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="quinto_video">
+                <i class="material-icons Small">play_circle_outline</i>
+              </a>
+            </td>
+          </tr>
+          
+          <tr>
+            <td>Sexto vídeo</td>
+         
+            <td>
+              <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="sexto_video">
+                <i class="material-icons Small">play_circle_outline</i>
+              </a>
+            </td>
+          </tr>
+
+  
+
+          
         </tbody>
       </table>
 	</div>
@@ -122,7 +158,7 @@
 	<div id="modal1" class="modal green-text">
 		<div class="modal-content deep-purple accent-2">
 			<p><div class="video-container">
-				<iframe width="1102" height="620" src="https://www.youtube.com/embed/mBjY4xCcd9o" frameborder="0" allowfullscreen id="videos_confeccion"></iframe>
+				<iframe width="1102" height="620" src="" frameborder="0" allowfullscreen id="videos_confeccion"></iframe>
 			</div></p>
 		</div>
 		<div class="modal-footer  deep-purple accent-4">
@@ -143,17 +179,42 @@
 				});  
 
 				$('#primer_video').click(function(){
-					$("#videos_confeccion").attr("src","https://vjs.zencdn.net/v/oceans.mp4");
-					$('#videos_confeccion').get(0).play();
-				});  
+					$("#videos_confeccion").attr("src","https://www.youtube.com/embed/eTjDDjoi0AU");
+          ver_video();
+
+				})  
 
 				$('#segundo_video').click(function(){
-					$("#videos_confeccion").attr("src","https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4");
-					$('#videos_confeccion').get(0).play();
-				});
+					$("#videos_confeccion").attr("src","https://www.youtube.com/embed/mVEm3WXz08Y");
+          ver_video();
+				})
 
+        $('#tercer_video').click(function(){
+          $("#videos_confeccion").attr("src","https://www.youtube.com/embed/GQD6qQ17f0Y");
+          ver_video();
+        })
 
+        $('#cuarto_video').click(function(){
+          $("#videos_confeccion").attr("src","https://www.youtube.com/embed/E1HsaXSAJH8");
+          ver_video();
+        })
 
+        $('#quinto_video').click(function(){
+          $("#videos_confeccion").attr("src","https://www.youtube.com/embed/Gg0bg1UqZ2A");
+          ver_video();
+        })
+
+        $('#sexto_video').click(function(){
+          $("#videos_confeccion").attr("src","https://www.youtube.com/embed/2ufW6eyeRCY?ecver=2");
+          ver_video();
+        })
+
+        
+
+        function ver_video(){
+          $('#ver_video').html('<td>seguir viendo el vídeo</td> <td> <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1 pulse" href="#modal1"> <i class="material-icons Small">play_circle_outline</i> </a> </td>');
+          
+        }
 
 				/* cambiar el color del boton cuando se pasa de sección */
 				$("ul#list_videos li a i").click(function() {

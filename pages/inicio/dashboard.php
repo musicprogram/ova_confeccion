@@ -1,40 +1,3 @@
-<script>
-  (function($){
-    $(function(){
-
-      $('.tooltipped').tooltip();
-
-      $('#patronaje').click(function(){
-        $('#main_content').load('pages/patronaje/patronaje.php').slideDown(560);  
-        $('#titulo_principal').html('Patronaje');
-      }); 
-
-      $('#confeccion').click(function(){
-        $('#main_content').load('pages/confeccion/confeccion.php').slideDown(560);  
-        $('#titulo_principal').html('Confección');
-      }); 
-
-      $('#foro').click(function(){
-        $('#main_content').load('pages/foro/foro.php').slideDown(560);  
-        $('#titulo_principal').html('Foro');
-      });
-
-      $('#trazoycorte').click(function(){
-        $('#main_content').load('pages/trazoycorte/trazoycorte.php').slideDown(560);  
-        $('#titulo_principal').html('Trazo y Corte');
-      });
-      
-
-  }); // end of document ready
-})(jQuery); // end of jQuery name space
-
-
-
-
-
-
-
-</script>
 
 
 <script src="js/parallax.js"></script>
@@ -174,24 +137,59 @@
 
 
 
-
 <script>
-  var scene = $('.scene').get(0);
-  var parallaxInstance = new Parallax(scene);
+  (function($){
+    $(function(){
 
-  var scene1 = $('.scene1').get(0);
-  var parallaxInstance = new Parallax(scene1);
+      $('.tooltipped').tooltip();
 
-  var scene2 = $('.scene2').get(0);
-  var parallaxInstance = new Parallax(scene2);
+      $('#patronaje').click(function(){
+        $('#main_content').load('pages/patronaje/patronaje.php').slideDown(560);  
+        $('#titulo_principal').html('Patronaje');
+      }); 
 
-  var scene3 = $('.scene3').get(0);
-  var parallaxInstance = new Parallax(scene3);
+      $('#confeccion').click(function(){
+        $('#main_content').load('pages/confeccion/confeccion.php').slideDown(560);  
+        $('#titulo_principal').html('Confección');
+      }); 
 
-  var scene4 = $('.scene4').get(0);
-  var parallaxInstance = new Parallax(scene4);
+      $('#foro').click(function(){
+        $('#main_content').load('pages/foro/foro.php').slideDown(560);  
+        $('#titulo_principal').html('Foro');
+      });
 
-  var scene5 = $('.scene5').get(0);
-  var parallaxInstance = new Parallax(scene5);
+      $('#trazoycorte').click(function(){
+        $('#main_content').load('pages/trazoycorte/trazoycorte.php').slideDown(560);  
+        $('#titulo_principal').html('Trazo y Corte');
+      });
+      
+
+      var scene = $('.scene').get(0);
+      var parallaxInstance = new Parallax(scene);
+
+      var scene1 = $('.scene1').get(0);
+      var parallaxInstance = new Parallax(scene1);
+
+      var scene2 = $('.scene2').get(0);
+      var parallaxInstance = new Parallax(scene2);
+
+      var scene3 = $('.scene3').get(0);
+      var parallaxInstance = new Parallax(scene3);
+
+      var scene4 = $('.scene4').get(0);
+      var parallaxInstance = new Parallax(scene4);
+
+      var scene5 = $('.scene5').get(0);
+      var parallaxInstance = new Parallax(scene5);
+
+
+  }); // end of document ready
+})(jQuery); // end of jQuery name space
+
+
+
+
+
+  
  
 </script>
