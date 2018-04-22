@@ -183,7 +183,7 @@
 
 
 
-  
+    
 
 
     <tr>
@@ -242,11 +242,52 @@
     </tr>  
 
 
-  <tr>
+    <tr>
       <td>16 vídeo</td>
 
       <td>
         <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="diesiocho_video">
+          <i class="material-icons Small">play_circle_outline</i>
+        </a>
+      </td>
+    </tr>
+
+    <tr>
+      <td>17 vídeo</td>
+
+      <td>
+        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="diesinueve_video">
+          <i class="material-icons Small">play_circle_outline</i>
+        </a>
+      </td>
+    </tr>
+
+    <tr>
+      <td>18 vídeo</td>
+
+      <td>
+        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="veinte_video">
+          <i class="material-icons Small">play_circle_outline</i>
+        </a>
+      </td>
+    </tr>
+
+    <tr>
+      <td>19 vídeo</td>
+
+      <td>
+        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="veintiuno_video">
+          <i class="material-icons Small">play_circle_outline</i>
+        </a>
+      </td>
+    </tr>
+
+
+    <tr>
+      <td>20 vídeo</td>
+
+      <td>
+        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="veintidos_video">
           <i class="material-icons Small">play_circle_outline</i>
         </a>
       </td>
@@ -374,6 +415,28 @@
       $("#videos_confeccion").attr("src","https://www.youtube.com/embed/jS5MScexOTc?ecver=2");
       ver_video();
     })
+
+    $('#diesinueve_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/95EN0O-SOo8?ecver=2");
+      ver_video();
+    })
+
+    $('#veinte_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/HNKM4nZcSmI?ecver=2");
+      ver_video();
+    })
+
+    $('#veintiuno_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/LzkFetTVWRI?ecver=2");
+      ver_video();
+    })
+
+    $('#veintidos_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/5D2Ao4hflL4?ecver=2");
+      ver_video();
+    })
+
+    
 
 
 

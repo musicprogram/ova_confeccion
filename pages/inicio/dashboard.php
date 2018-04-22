@@ -1,6 +1,6 @@
 
 
-<script src="js/parallax.js"></script>
+
 
 
 <div class="row">
