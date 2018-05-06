@@ -14,7 +14,7 @@
         </header>
         <div class="scene5">
 
-          <img src="images/machine.png" alt="" class="responsive-img centrar" data-depth="1.00">
+          <img src="images/machine_v.png" alt="" class="responsive-img centrar" data-depth="1.00">
 
         </div>
 
@@ -32,7 +32,7 @@
       </header>
       <div class="scene4">
 
-        <img src="images/machine_blue.png" alt="" class="responsive-img centrar" data-depth="0.8">
+        <img src="images/machine_blue_v.png" alt="" class="responsive-img centrar" data-depth="0.8">
 
       </div>
 
@@ -55,7 +55,7 @@
     </header>
     <div class="scene3">
 
-      <img src="images/ic_content_cut_128.png" alt="" class="responsive-img centrar" data-depth="0.9">
+      <img src="images/ic_content_cut_128_v.png" alt="" class="responsive-img centrar" data-depth="0.9">
 
     </div >
 
@@ -79,7 +79,7 @@
       </header>
       <div class="scene2">
 
-        <img src="images/ic_assignment_turned_in_128.png" alt="" class="responsive-img centrar" data-depth="0.6">
+        <img src="images/ic_assignment_turned_in_128_v.png" alt="" class="responsive-img centrar" data-depth="0.6">
 
       </div>
 
@@ -100,7 +100,7 @@
     </header>
     <div class="scene1">
 
-      <img src="images/ic_wallet_travel_128.png" alt="" class="responsive-img centrar" data-depth="0.7">
+      <img src="images/ic_wallet_travel_128_v.png" alt="" class="responsive-img centrar" data-depth="0.7">
 
     </div>
 
@@ -121,7 +121,7 @@
     </header>
     <div class="scene">
 
-      <img src="images/ic_send_128.png" alt="" class="responsive-img centrar" data-depth="0.8">
+      <img src="images/ic_send_128_v.png" alt="" class="responsive-img centrar" data-depth="0.8">
 
     </div>
 
