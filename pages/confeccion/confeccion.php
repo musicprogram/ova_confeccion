@@ -850,7 +850,7 @@
 
       $('#back').click(function(){
         $('#main_content').load('pages/inicio/dashboard.php').slideDown(560); 
-        $('#titulo_principal').html('Ova Confección');    
+        $('#titulo_principal').html('CREATIVAPP');    
       });  
 
   }); // end of document ready
