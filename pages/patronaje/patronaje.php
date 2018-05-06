@@ -54,7 +54,7 @@
 <div class="card grey lighten-3 ">
   <div class="card-content teal-text text-accent-4">
     <h5 class="card-title header center">Proceso de patronar confección y acabados para una chaqueta vaquera</h5>
-      <img src="images/machine.png" alt="" class="responsive-img centrar">
+
     <div class="row">
       <div class="col s12 m6">
         <div class="card">
