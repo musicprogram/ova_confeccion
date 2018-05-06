@@ -72,7 +72,7 @@
 
 
    <div id="card-1" class="card ">
-    <div class="card-content separar center-align">
+    <div class="card-content separar center-align" id="ficha_tecnica">
       <header>
 
         <label class="title teal-text text-accent-4 ">FICHA TÉCNICA</label>
@@ -93,7 +93,7 @@
 
 
  <div id="card-1" class="card ">
-  <div class="card-content separar center-align">
+  <div class="card-content separar center-align" id="empresa">
     <header>
 
       <label class="title teal-text text-accent-4 ">EMPRESA</label>
@@ -163,6 +163,15 @@
         $('#titulo_principal').html('Trazo y Corte');
       });
       
+      $('#empresa').click(function(){
+        $('#main_content').load('pages/empresa/empresa.php').slideDown(560);  
+        $('#titulo_principal').html('Empresas');
+      }); 
+
+      $('#ficha_tecnica').click(function(){
+        $('#main_content').load('pages/ficha_tecnica/ficha_tecnica.php').slideDown(560);  
+        $('#titulo_principal').html('Ficha Técnica');
+      });
 
       var scene = $('.scene').get(0);
       var parallaxInstance = new Parallax(scene);

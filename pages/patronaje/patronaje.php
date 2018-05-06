@@ -54,14 +54,14 @@
 <div class="card grey lighten-3 ">
   <div class="card-content teal-text text-accent-4">
     <h5 class="card-title header center">Proceso de patronar confección y acabados para una chaqueta vaquera</h5>
-      <img src="images/ic_extension_128.png" alt="" class="responsive-img centrar ">
+      <img src="images/machine.png" alt="" class="responsive-img centrar">
     <div class="row">
       <div class="col s12 m6">
         <div class="card">
           <div class="card-image">
-            <video class="responsive-video" controls>
-              <source src="https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" type="video/mp4">
-              </video>
+            <div class="video-container">
+              <iframe width="1102" height="620" src="https://www.youtube.com/embed/mVEm3WXz08Y" frameborder="0" allowfullscreen id="videos_confeccion"></iframe>
+            </div>
               <span class="card-title">Card Title</span>
             </div>
             <div class="card-content">
@@ -78,9 +78,9 @@
 
           <div class="card">
             <div class="card-image">
-              <video class="responsive-video" controls>
-                <source src="https://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4" type="video/mp4">
-                </video>
+               <div class="video-container">
+                <iframe width="1102" height="620" src="https://www.youtube.com/embed/E1HsaXSAJH8" frameborder="0" allowfullscreen id="videos_confeccion"></iframe>
+              </div>
                 <span class="card-title">Card Title</span>
               </div>
               <div class="card-content">
