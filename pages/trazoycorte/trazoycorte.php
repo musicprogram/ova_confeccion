@@ -12,7 +12,7 @@
 
 
 
-<blockquote class="white-text flow-text center-align">
+<blockquote class="teal-text text-accent-4 flow-text center-align" style="border-left: 5px solid #00bfa5;">
  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto unde porro sapiente voluptas corporis cumque totam consequuntur ab quibusdam, optio facere ea blanditiis, error repellendus reprehenderit asperiores impedit praesentium libero?
 </blockquote>
 
@@ -82,88 +82,40 @@
 
         </tr>
 
-        <tr>
-          <td>1 vídeo</td>
-
-          <td>
-           <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="primer_video">
-            <i class="material-icons Small">play_circle_outline</i>
-          </a>
-        </td>
-      </tr>
+    
       <tr>
-        <td>2 vídeo</td>
+        <td>1- Alistamiento de elementos</td>
 
         <td>
-         <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="segundo_video">
+         <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="segundo_video">
           <i class="material-icons Small">play_circle_outline</i>
         </a>
       </td>
     </tr>
-
-    <tr>
-      <td>3 vídeo</td>
-
-      <td>
-        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="tercer_video">
-          <i class="material-icons Small">play_circle_outline</i>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>4 vídeo</td>
+      <tr>
+      <td>2- Base en papel</td>
 
       <td>
-        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="cuarto_video">
+        <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="cuarto_video">
           <i class="material-icons Small">play_circle_outline</i>
         </a>
       </td>
     </tr>
     <tr>
-      <td>5 vídeo</td>
+      <td>3- Instrucciones iniciales</td>
 
       <td>
-        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="quinto_video">
+        <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="tercer_video">
           <i class="material-icons Small">play_circle_outline</i>
         </a>
       </td>
     </tr>
-
+    
     <tr>
-      <td>6 vídeo</td>
+      <td>4- Revisión de trazo</td>
 
       <td>
-        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="sexto_video">
-          <i class="material-icons Small">play_circle_outline</i>
-        </a>
-      </td>
-    </tr>
-
-    <tr>
-      <td>7 vídeo</td>
-
-      <td>
-        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="septimo_video">
-          <i class="material-icons Small">play_circle_outline</i>
-        </a>
-      </td>
-    </tr>
-
-    <tr>
-      <td>8 vídeo</td>
-
-      <td>
-        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="octavo_video">
-          <i class="material-icons Small">play_circle_outline</i>
-        </a>
-      </td>
-    </tr>
-
-    <tr>
-      <td>9 vídeo</td>
-
-      <td>
-        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="noveno_video">
+        <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="quinto_video">
           <i class="material-icons Small">play_circle_outline</i>
         </a>
       </td>
@@ -172,14 +124,26 @@
 
 
     <tr>
-      <td>10 vídeo</td>
+      <td>5- Extendido</td>
 
       <td>
-        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="decimo_video">
+        <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="septimo_video">
           <i class="material-icons Small">play_circle_outline</i>
         </a>
       </td>
     </tr>
+
+    <tr>
+      <td>6- Extendido primeras capas</td>
+
+      <td>
+        <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="octavo_video">
+          <i class="material-icons Small">play_circle_outline</i>
+        </a>
+      </td>
+    </tr>
+
+    
 
 
 
@@ -187,20 +151,20 @@
 
 
     <tr>
-      <td>11 vídeo</td>
+      <td>7- Cortadora de extremo</td>
       
       <td>
-        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="doceavo_video">
+        <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="doceavo_video">
           <i class="material-icons Small">play_circle_outline</i>
         </a>
       </td>
     </tr>
     
     <tr>
-      <td>12 vídeo</td>
+      <td>8 -Ubicación y revisión de trazo y corte</td>
       
       <td>
-        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="treceavo">
+        <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="treceavo">
           <i class="material-icons Small">play_circle_outline</i>
         </a>
       </td>
@@ -209,33 +173,24 @@
 
 
     <tr>
-      <td>13 vídeo</td>
+      <td>9- Inicio proceso de corte</td>
       
       <td>
-        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="catorceavo">
+        <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="catorceavo">
           <i class="material-icons Small">play_circle_outline</i>
         </a>
       </td>
     </tr>  
     
 
-    <tr>
-      <td>14 vídeo</td>
-      
-      <td>
-        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="quinceavo">
-          <i class="material-icons Small">play_circle_outline</i>
-        </a>
-      </td>
-    </tr>  
-
+  
 
 
     <tr>
-      <td>15  vídeo</td>
+      <td>10- Corte o despieze del trazo</td>
       
       <td>
-        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="dieciseisavo">
+        <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="dieciseisavo">
           <i class="material-icons Small">play_circle_outline</i>
         </a>
       </td>
@@ -243,51 +198,42 @@
 
 
     <tr>
-      <td>16 vídeo</td>
+      <td>11-Corte del trazo</td>
 
       <td>
-        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="diesiocho_video">
+        <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="diesiocho_video">
           <i class="material-icons Small">play_circle_outline</i>
         </a>
       </td>
     </tr>
 
     <tr>
-      <td>17 vídeo</td>
+      <td>12 -Finalización de corte</td>
 
       <td>
-        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="diesinueve_video">
+        <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="diesinueve_video">
           <i class="material-icons Small">play_circle_outline</i>
         </a>
       </td>
     </tr>
 
     <tr>
-      <td>18 vídeo</td>
+      <td>13 -Clasificación de residuos</td>
 
       <td>
-        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="veinte_video">
+        <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="veinte_video">
           <i class="material-icons Small">play_circle_outline</i>
         </a>
       </td>
     </tr>
 
-    <tr>
-      <td>19 vídeo</td>
-
-      <td>
-        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="veintiuno_video">
-          <i class="material-icons Small">play_circle_outline</i>
-        </a>
-      </td>
-    </tr>
-
+   
 
     <tr>
-      <td>20 vídeo</td>
+      <td>14 Tiquetado</td>
 
       <td>
-        <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1" href="#modal1" id="veintidos_video">
+        <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="veintidos_video">
           <i class="material-icons Small">play_circle_outline</i>
         </a>
       </td>
@@ -309,13 +255,13 @@
 
 
 <div id="modal1" class="modal green-text">
-  <div class="modal-content deep-purple accent-2">
+  <div class="modal-content grey lighten-4">
    <p><div class="video-container">
     <iframe width="1102" height="620" src="" frameborder="0" allowfullscreen id="videos_confeccion"></iframe>
   </div></p>
 </div>
-<div class="modal-footer  deep-purple accent-4">
- <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat white-text">Cerrar</a>
+<div class="modal-footer  grey lighten-2">
+ <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat teal-text text-accent-4">Cerrar</a>
 </div>
 </div>
 
@@ -331,11 +277,7 @@
      $('#titulo_principal').html('OVA Confección');    
    });  
 
-    $('#primer_video').click(function(){
-     $("#videos_confeccion").attr("src","https://www.youtube.com/embed/eTjDDjoi0AU");
-     ver_video();
-
-   })  
+    
 
     $('#segundo_video').click(function(){
      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/mVEm3WXz08Y");
@@ -441,16 +383,16 @@
 
 
     function ver_video(){
-      $('#ver_video').html('<td>seguir viendo el vídeo</td> <td> <a class="waves-effect waves-light btn modal-trigger deep-purple lighten-1 pulse" href="#modal1"> <i class="material-icons Small">play_circle_outline</i> </a> </td>');
+      $('#ver_video').html('<td>seguir viendo el vídeo</td> <td> <a class="waves-effect waves-light btn modal-trigger teal accent-4 pulse" href="#modal1"> <i class="material-icons Small">play_circle_outline</i> </a> </td>');
 
     }
 
     /* cambiar el color del boton cuando se pasa de sección */
     $("ul#list_videos li a i").click(function() {
   	      // remove classes from all
-  	      $("i").removeClass(" deep-purple-text text-darken-4");
+  	      $("i").removeClass(" teal-text text-accent-4");
   	      // add class to the one we clicked
-  	      $(this).addClass(" deep-purple-text text-darken-4");
+  	      $(this).addClass(" teal-text text-accent-4");
   	    });
 
 
@@ -503,7 +445,7 @@ function play(){
 </script>
 
 
-<div class="fixed-action-btn"><a class="btn-floating btn-large deep-purple darken-4 pulse" id="back"><i class="large material-icons">arrow_back</i></a></div>
+<div class="fixed-action-btn"><a class="btn-floating btn-large teal accent-4 pulse" id="back"><i class="large material-icons">arrow_back</i></a></div>
 
 
 

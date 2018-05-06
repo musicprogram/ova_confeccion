@@ -10,7 +10,7 @@
       <div class="card-content separar center-align"  id="patronaje">
         <header>
 
-          <label class="title deep-purple-text text-darken-1 ">PATRONAJE</label>
+          <label class="title teal-text text-accent-4 ">PATRONAJE</label>
         </header>
         <div class="scene5">
 
@@ -28,7 +28,7 @@
     <div class="card-content separar center-align" id="confeccion">
       <header>
 
-        <label class="title deep-purple-text text-darken-1 ">CONFECCIÓN</label>
+        <label class="title teal-text text-accent-4 ">CONFECCIÓN</label>
       </header>
       <div class="scene4">
 
@@ -51,7 +51,7 @@
   <div class="card-content separar center-align" id="trazoycorte">
     <header>
 
-      <label class="title deep-purple-text text-darken-1 ">TRAZO Y CORTE</label>
+      <label class="title teal-text text-accent-4 ">TRAZO Y CORTE</label>
     </header>
     <div class="scene3">
 
@@ -75,7 +75,7 @@
     <div class="card-content separar center-align">
       <header>
 
-        <label class="title deep-purple-text text-darken-1 ">FICHA TÉCNICA</label>
+        <label class="title teal-text text-accent-4 ">FICHA TÉCNICA</label>
       </header>
       <div class="scene2">
 
@@ -96,7 +96,7 @@
   <div class="card-content separar center-align">
     <header>
 
-      <label class="title deep-purple-text text-darken-1 ">EMPRESA</label>
+      <label class="title teal-text text-accent-4 ">EMPRESA</label>
     </header>
     <div class="scene1">
 
@@ -117,7 +117,7 @@
   <div class="card-content separar center-align" id="foro">
     <header>
 
-      <label class="title deep-purple-text text-darken-1 ">FORO</label>
+      <label class="title teal-text text-accent-4 ">FORO</label>
     </header>
     <div class="scene">
 

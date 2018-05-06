@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <title>OVA</title>
+  <title>Creativaap</title>
   <link rel='shortcut icon' type='image/x-icon' href='images/machine_blue.png' />
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -21,7 +21,7 @@
 
 
 </head>
-<body class="deep-purple lighten-1">
+<body class="grey lighten-4">
 
   <?php include_once 'pages/inicio/nav_inicio.php'?>
   

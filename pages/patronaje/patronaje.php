@@ -52,7 +52,7 @@
 
 
 <div class="card grey lighten-3 ">
-  <div class="card-content deep-purple-text text-darken-1">
+  <div class="card-content teal-text text-accent-4">
     <h5 class="card-title header center">Proceso de patronar confección y acabados para una chaqueta vaquera</h5>
       <img src="images/ic_extension_128.png" alt="" class="responsive-img centrar ">
     <div class="row">
@@ -116,7 +116,7 @@
 </script>
 
 
-<div class="fixed-action-btn"><a class="btn-floating btn-large deep-purple darken-4 pulse" id="back"><i class="large material-icons">arrow_back</i></a></div>
+<div class="fixed-action-btn"><a class="btn-floating btn-large teal accent-4 pulse" id="back"><i class="large material-icons">arrow_back</i></a></div>
 
 
 
