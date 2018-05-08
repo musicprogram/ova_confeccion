@@ -24,7 +24,7 @@
   <div class="col s12 m2">
 
     <div class="card">
-      <div class="card-image waves-effect waves-block waves-light teal darken-2">
+      <div class="card-image waves-effect waves-block waves-light ">
         <img class="activator" src="images/ic_account_balance_wallet_128.png">
       </div>
       <div class="card-content">
@@ -109,7 +109,7 @@
   </div>
   <div class="col s12 m2">
     <div class="card">
-      <div class="card-image waves-effect waves-block waves-light  teal darken-2">
+      <div class="card-image waves-effect waves-block waves-light  ">
         <img class="activator" src="images/ic_assignment_128.png">
       </div>
       <div class="card-content">
@@ -126,7 +126,7 @@
   <div class="col s12 m2">
 
     <div class="card">
-      <div class="card-image waves-effect waves-block waves-light teal darken-2">
+      <div class="card-image waves-effect waves-block waves-light ">
         <img class="activator" src="images/ic_crop_original_128.png">
       </div>
       <div class="card-content">
@@ -142,7 +142,7 @@
    <div class="col s12 m2">
 
     <div class="card">
-      <div class="card-image waves-effect waves-block waves-light teal darken-2">
+      <div class="card-image waves-effect waves-block waves-light ">
         <img class="activator" src="images/ic_now_wallpaper_128.png">
       </div>
       <div class="card-content">
@@ -158,7 +158,7 @@
   <div class="col s12 m2">
 
     <div class="card">
-      <div class="card-image waves-effect waves-block waves-light teal darken-2">
+      <div class="card-image waves-effect waves-block waves-light ">
         <img class="activator" src="images/ic_now_wallpaper_128.png">
       </div>
       <div class="card-content">
