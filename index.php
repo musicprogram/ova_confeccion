@@ -4,7 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <title>Creativaap</title>
-  <link rel='shortcut icon' type='image/x-icon' href='images/machine_blue.png' />
+  <link rel='shortcut icon' type='image/x-icon' href='images/machine_blue_v.png' />
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
@@ -25,7 +25,7 @@
 
   <?php include_once 'pages/inicio/nav_inicio.php'?>
   
-  <div class="container separar">
+  <div class="separar">
     <div id="main_content">
       <?php include_once 'pages/inicio/dashboard.php'?>
     </div>   

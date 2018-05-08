@@ -1,4 +1,5 @@
-<script>
+<div class="container">
+  <script>
   (function($){
     $(function(){
 
@@ -66,8 +67,8 @@
 
 
 <div class="card">
-	<div class="card-content">
-		
+  <div class="card-content">
+    
     <table>
       <thead>
         <tr>
@@ -389,11 +390,11 @@
 
     /* cambiar el color del boton cuando se pasa de sección */
     $("ul#list_videos li a i").click(function() {
-  	      // remove classes from all
-  	      $("i").removeClass(" teal-text text-accent-4");
-  	      // add class to the one we clicked
-  	      $(this).addClass(" teal-text text-accent-4");
-  	    });
+          // remove classes from all
+          $("i").removeClass(" teal-text text-accent-4");
+          // add class to the one we clicked
+          $(this).addClass(" teal-text text-accent-4");
+        });
 
 
 
@@ -452,3 +453,5 @@ function play(){
 
 
 
+
+</div>

@@ -1,4 +1,5 @@
-<script>
+<div class="container">
+  <script>
   (function($){
     $(function(){
 
@@ -56,13 +57,13 @@
     <h5 class="card-title header center">Proceso de patronar confección y acabados para una chaqueta vaquera</h5>
 
     <div class="row">
-      <div class="col s12 m6">
+      <div class="col s12 m4">
         <div class="card">
           <div class="card-image">
             <div class="video-container">
-              <iframe width="1102" height="620" src="https://www.youtube.com/embed/mVEm3WXz08Y" frameborder="0" allowfullscreen id="videos_confeccion"></iframe>
+              <iframe width="1102" height="620" src="https://www.youtube.com/embed/pEquTKXmfJ8?ecver" frameborder="0" allowfullscreen id="videos_confeccion"></iframe>
             </div>
-              <span class="card-title">Card Title</span>
+             
             </div>
             <div class="card-content">
               <p>I am a very simple card. I am good at containing small bits of information.
@@ -74,14 +75,32 @@
 
         </div>
 
-        <div class="col s12 m6">
+        <div class="col s12 m4">
 
           <div class="card">
             <div class="card-image">
                <div class="video-container">
-                <iframe width="1102" height="620" src="https://www.youtube.com/embed/E1HsaXSAJH8" frameborder="0" allowfullscreen id="videos_confeccion"></iframe>
+                <iframe width="1102" height="620" src="https://www.youtube.com/embed/5xETEI5zG1w?ecver" frameborder="0" allowfullscreen id="videos_confeccion"></iframe>
               </div>
-                <span class="card-title">Card Title</span>
+               
+              </div>
+              <div class="card-content">
+                <p>I am a very simple card. I am good at containing small bits of information.
+                I am convenient because I require little markup to use effectively.</p>
+              </div>
+
+            </div>
+
+          </div>
+
+          <div class="col s12 m4">
+
+          <div class="card">
+            <div class="card-image">
+               <div class="video-container">
+                <iframe width="1102" height="620" src="https://www.youtube.com/embed/RjJHnClxYo0?ecver" frameborder="0" allowfullscreen id="videos_confeccion"></iframe>
+              </div>
+               
               </div>
               <div class="card-content">
                 <p>I am a very simple card. I am good at containing small bits of information.
@@ -124,3 +143,4 @@
 
 
       
+</div>

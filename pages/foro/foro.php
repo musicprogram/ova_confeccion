@@ -1,4 +1,5 @@
-<script id="dsq-count-scr" src="//http-ovaconfeccion-byethost3-com.disqus.com/count.js" async></script>
+<div class="container">
+  <script id="dsq-count-scr" src="//http-ovaconfeccion-byethost3-com.disqus.com/count.js" async></script>
 
   <div id="disqus_thread"></div>
   <script>
@@ -45,3 +46,4 @@ this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your pag
 
 
 <div class="fixed-action-btn"><a class="btn-floating btn-large teal accent-4 pulse" id="back"><i class="large material-icons">arrow_back</i></a></div>
+</div>
