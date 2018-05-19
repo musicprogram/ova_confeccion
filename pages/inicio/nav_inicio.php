@@ -3,9 +3,12 @@
   <div class="section no-pad-bot">
     <div class="container">
       <br><br>
-      <h1 class="header center white-text text-lighten-2" id="titulo_principal">CREATIVAPP</h1>
+      
+      <div id="titulo_principal" class="center">
+        <img src="images/nombre.png" class="responsive-img">
+      </div>
       <div class="row center">
-        <h5 class="header col s12 ">Proceso de patronaje confección y acabado para una chaqueta vaquera</h5>
+        <h5 class="header col s12 " id="descripcion_titulo">Proceso de patronaje confección y acabado para una chaqueta vaquera</h5>
       </div>
       
     </div>

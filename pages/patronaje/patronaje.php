@@ -66,8 +66,9 @@
              
             </div>
             <div class="card-content">
-              <p>I am a very simple card. I am good at containing small bits of information.
-              I am convenient because I require little markup to use effectively.</p>
+              <p class="center-align">
+                Desarrollo de molde delantero
+              </p>
             </div>
 
           </div>
@@ -85,8 +86,9 @@
                
               </div>
               <div class="card-content">
-                <p>I am a very simple card. I am good at containing small bits of information.
-                I am convenient because I require little markup to use effectively.</p>
+                <p class="center-align">
+                  Desarrollo molde espalda
+                </p>
               </div>
 
             </div>
@@ -103,8 +105,9 @@
                
               </div>
               <div class="card-content">
-                <p>I am a very simple card. I am good at containing small bits of information.
-                I am convenient because I require little markup to use effectively.</p>
+                <p class="center-align">
+                  Desarrollo de molde manga
+                </p>
               </div>
 
             </div>
@@ -123,7 +126,8 @@
 
       $('#back').click(function(){
         $('#main_content').load('pages/inicio/dashboard.php').slideDown(560); 
-        $('#titulo_principal').html('CREATIVAPP');    
+        $('#titulo_principal').html('<img src="images/nombre.png" class="responsive-img">');  
+        $('#descripcion_titulo').html('Proceso de patronaje confección y acabado para una chaqueta vaquera');    
       });  
  
   }); // end of document ready

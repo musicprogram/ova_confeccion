@@ -4,29 +4,55 @@
 
 
 
-<div class="row">
-  <div class="col s12 m4">
+  <div class="row">
+    <div class="col s12 m4">
 
-    <div id="card-1" class="card ">
-      <div class="card-content separar center-align"  id="patronaje">
-        <header>
+      <div id="card-1" class="card ">
+        <div class="card-content separar center-align"  id="patronaje">
+          <header>
 
-          <label class="title teal-text text-accent-4 ">PATRONAJE</label>
-        </header>
-        <div class="scene5">
+            <label class="title teal-text text-accent-4 ">PATRONAJE</label>
+          </header>
+          <div class="scene5">
 
-          <img src="images/machine_v.png" alt="" class="responsive-img centrar" data-depth="1.00">
+            <img src="images/machine_v.png" alt="" class="responsive-img centrar" data-depth="1.00">
+
+          </div>
 
         </div>
+      </div>
+
+
+    </div>
+    <div class="col s12 m4">
+     <div id="card-1" class="card ">
+
+       <div class="card-content separar center-align" id="trazoycorte">
+        <header>
+
+          <label class="title teal-text text-accent-4 ">TRAZO Y CORTE</label>
+        </header>
+        <div class="scene3">
+
+          <img src="images/ic_content_cut_128_v.png" alt="" class="responsive-img centrar" data-depth="0.9">
+
+        </div >
 
       </div>
+      
+      
     </div>
 
-
   </div>
+
+
+
+
   <div class="col s12 m4">
+
+
    <div id="card-1" class="card ">
-    <div class="card-content separar center-align" id="confeccion">
+     <div class="card-content separar center-align" id="confeccion">
       <header>
 
         <label class="title teal-text text-accent-4 ">CONFECCIÓN</label>
@@ -39,29 +65,6 @@
 
     </div>
   </div>
-
-</div>
-
-
-
-
-<div class="col s12 m4">
-
-
- <div id="card-1" class="card ">
-  <div class="card-content separar center-align" id="trazoycorte">
-    <header>
-
-      <label class="title teal-text text-accent-4 ">TRAZO Y CORTE</label>
-    </header>
-    <div class="scene3">
-
-      <img src="images/ic_content_cut_128_v.png" alt="" class="responsive-img centrar" data-depth="0.9">
-
-    </div >
-
-  </div>
-</div>
 
 
 </div>
@@ -146,32 +149,37 @@
 
       $('#patronaje').click(function(){
         $('#main_content').load('pages/patronaje/patronaje.php').slideDown(560);  
-        $('#titulo_principal').html('Patronaje');
+        $('#titulo_principal').html('<h1 class="header center white-text text-lighten-2">PATRONAJE</h1>');
+        $('#descripcion_titulo').html('Este módulo contiene el desarrollo de patronaje de la chaqueta tipo vaquera'); 
       }); 
 
       $('#confeccion').click(function(){
         $('#main_content').load('pages/confeccion/confeccion.php').slideDown(560);  
-        $('#titulo_principal').html('Confección');
+        $('#titulo_principal').html('<h1 class="header center white-text text-lighten-2">CONFECCIÓN</h1>');
+        $('#descripcion_titulo').html('Este módulo contiene el paso a pasode la confección industrial de la chaqueta vaquera'); 
       }); 
 
       $('#foro').click(function(){
         $('#main_content').load('pages/foro/foro.php').slideDown(560);  
-        $('#titulo_principal').html('Foro');
+        $('#titulo_principal').html('<h1 class="header center white-text text-lighten-2">FORO</h1>');
+        $('#descripcion_titulo').html('Este módulo contiene los comentarios acerca de los proceso de confección'); 
       });
 
       $('#trazoycorte').click(function(){
         $('#main_content').load('pages/trazoycorte/trazoycorte.php').slideDown(560);  
-        $('#titulo_principal').html('Trazo y Corte');
+        $('#titulo_principal').html('<h1 class="header center white-text text-lighten-2">TRAZO Y CORTE</h1>');
+        $('#descripcion_titulo').html('Este módulo contiene el trazo y corte industrial para una chaqueta vaquera'); 
       });
       
       $('#empresa').click(function(){
         $('#main_content').load('pages/empresa/empresa.php').slideDown(560);  
-        $('#titulo_principal').html('Empresas');
+        $('#titulo_principal').html('<h1 class="header center white-text text-lighten-2">EMPRESAS</h1>');
       }); 
 
       $('#ficha_tecnica').click(function(){
         $('#main_content').load('pages/ficha_tecnica/ficha_tecnica.php').slideDown(560);  
-        $('#titulo_principal').html('Ficha Técnica');
+        $('#titulo_principal').html('<h1 class="header center white-text text-lighten-2">FICHA TÉCNICA</h1>');
+        $('#descripcion_titulo').html('Este módulo contiene las carácteristicas técnicas para el proceso de confección de la chaqueta vaquera'); 
       });
 
       var scene = $('.scene').get(0);
@@ -200,7 +208,7 @@
 
 
 
-  
- 
+
+
 </script>
 </div>

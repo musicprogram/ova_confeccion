@@ -31,7 +31,8 @@ this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your pag
 
       $('#back').click(function(){
         $('#main_content').load('pages/inicio/dashboard.php').slideDown(560); 
-        $('#titulo_principal').html('CREATIVAPP');    
+        $('#titulo_principal').html('<img src="images/nombre.png" class="responsive-img">');
+        $('#descripcion_titulo').html('Proceso de patronaje confección y acabado para una chaqueta vaquera');      
       });  
  
   }); // end of document ready
