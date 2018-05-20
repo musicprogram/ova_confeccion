@@ -156,7 +156,7 @@
       $('#confeccion').click(function(){
         $('#main_content').load('pages/confeccion/confeccion.php').slideDown(560);  
         $('#titulo_principal').html('<h1 class="header center white-text text-lighten-2">CONFECCIÓN</h1>');
-        $('#descripcion_titulo').html('Este módulo contiene el paso a pasode la confección industrial de la chaqueta vaquera'); 
+        $('#descripcion_titulo').html('Este módulo contiene el paso a paso de la confección industrial de la chaqueta vaquera'); 
       }); 
 
       $('#foro').click(function(){

@@ -29,14 +29,14 @@
 
 
 <div class="row">
-
+<div class="col s12 m4"></div>
   <div class="col s12 m4">
 
-    <div class="circle z-depth-3 tooltipped " data-position="left" data-tooltip="PDF T punto" >
+    <div class="circle z-depth-3 tooltipped " data-position="left" data-tooltip="Ficha técnica excel" >
       <div class="circle__inner">
         <div class="circle__wrapper ">
           <div class="circle__content ">
-            <a class="waves-effect waves-light  modal-trigger" href="#modal1">
+            <a class="waves-effect waves-light  modal-trigger" href="https://drive.google.com/file/d/1eTVTrDFQHQQGQ00JOY3REqRcf7A-J8UK/view?usp=sharing" target="_blank">
               <img src="images/ic_dialpad_128.png" alt="" class="responsive-img centrar">
             </a>
              
@@ -46,36 +46,8 @@
      </div>
    </div>
  </div>
- <div class="col s12 m4 tooltipped" data-position="top" data-tooltip="PDF T plano" >
-  <div class="circle z-depth-3 ">
-    <div class="circle__inner">
-      <div class="circle__wrapper">
-        <div class="circle__content">
-         <a class="waves-effect waves-light  modal-trigger" href="#modal2">
-            <img src="images/ic_tab_unselected_128.png" alt="" class="responsive-img centrar">
-        </a>
-        </div>
-      </div>
-    </div>
-  </div>
 
-  
-</div>
- <div class="col s12 m4 tooltipped" data-position="right" data-tooltip="PDF T plano" >
-  <div class="circle z-depth-3">
-    <div class="circle__inner">
-      <div class="circle__wrapper">
-        <div class="circle__content">
-         <a class="waves-effect waves-light  modal-trigger" href="#modal3">
-            <img src="images/ic_play_circle_outline_128.png" alt="" class="responsive-img centrar">
-          </a>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  
-</div>
+<div class="col s12 m4"></div>
 
 </div>
 

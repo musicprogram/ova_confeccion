@@ -13,9 +13,6 @@
 
 
 
-<blockquote class="teal-text text-accent-4 flow-text center-align" style="border-left: 5px solid #00bfa5;">
- Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto unde porro sapiente voluptas corporis cumque totam consequuntur ab quibusdam, optio facere ea blanditiis, error repellendus reprehenderit asperiores impedit praesentium libero?
-</blockquote>
 
 
 

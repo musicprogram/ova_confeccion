@@ -16,11 +16,11 @@
   <div class="col s12 m3"></div>
   <div class="col s12 m3">
 
-    <div class="circle z-depth-3 tooltipped" data-position="left" data-tooltip="PDF T punto" >
+    <div class="circle z-depth-3 tooltipped" data-position="left" data-tooltip="Desarrollo patronaje chaqueta tipo vaquera" >
       <div class="circle__inner">
         <div class="circle__wrapper">
           <div class="circle__content">
-            <a href="https://drive.google.com/file/d/1sw5E8PgMN7JVnIo6Id4sLJSqhTO6prc1/view?usp=sharing" target="_blank">
+            <a href="https://drive.google.com/file/d/1nsTrv-_7I5zNMGNnjh5v3NIxD8tZcVk7/view?usp=sharing" target="_blank">
              <img src="images/ic_dialpad_128.png" alt="" class="responsive-img centrar">
            </a>         
 
@@ -54,8 +54,7 @@
 
 <div class="card grey lighten-3 ">
   <div class="card-content teal-text text-accent-4">
-    <h5 class="card-title header center">Proceso de patronar confección y acabados para una chaqueta vaquera</h5>
-
+    
     <div class="row">
       <div class="col s12 m4">
         <div class="card">
