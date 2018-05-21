@@ -21,11 +21,11 @@
       <div class="circle__inner">
         <div class="circle__wrapper ">
           <div class="circle__content ">
-            <a class="waves-effect waves-light  modal-trigger" href="https://drive.google.com/file/d/1_ZQ5dUE5euMlTmO1pZIeKwbU_fQP6dbi/view?usp=sharing" target="_blank">
+            <a class="waves-effect waves-light  modal-trigger" href="https://docs.google.com/uc?export=download&id=1eTVTrDFQHQQGQ00JOY3REqRcf7A-J8UK" target="_blank">
               <img src="images/ic_assignment_128.png" alt="" class="responsive-img centrar">
             </a>
              
-         
+        
          </div>
        </div>
      </div>

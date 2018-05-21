@@ -21,7 +21,7 @@
         <div class="circle__wrapper">
           <div class="circle__content">
             <a href="https://drive.google.com/file/d/1nsTrv-_7I5zNMGNnjh5v3NIxD8tZcVk7/view?usp=sharing" target="_blank">
-             <img src="images/ic_dialpad_128.png" alt="" class="responsive-img centrar">
+             <img src="images/cza.png" alt="" class="responsive-img centrar">
            </a>         
 
          </div>
@@ -35,7 +35,7 @@
       <div class="circle__wrapper">
         <div class="circle__content">
           <a href="https://drive.google.com/file/d/1EHzb8d-7M_fb1BBcVcrkdOQubM0SRKT3/view?usp=sharing" target="_blank">
-            <img src="images/ic_tab_unselected_128.png" alt="" class="responsive-img centrar">
+            <img src="images/mga.png" alt="" class="responsive-img centrar">
           </a>  
         </div>
       </div>
