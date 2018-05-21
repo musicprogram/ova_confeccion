@@ -13,21 +13,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="row">
 <div class="col s12 m4"></div>
   <div class="col s12 m4">
@@ -36,8 +21,8 @@
       <div class="circle__inner">
         <div class="circle__wrapper ">
           <div class="circle__content ">
-            <a class="waves-effect waves-light  modal-trigger" href="https://drive.google.com/file/d/1eTVTrDFQHQQGQ00JOY3REqRcf7A-J8UK/view?usp=sharing" target="_blank">
-              <img src="images/ic_dialpad_128.png" alt="" class="responsive-img centrar">
+            <a class="waves-effect waves-light  modal-trigger" href="https://drive.google.com/file/d/1_ZQ5dUE5euMlTmO1pZIeKwbU_fQP6dbi/view?usp=sharing" target="_blank">
+              <img src="images/ic_assignment_128.png" alt="" class="responsive-img centrar">
             </a>
              
          
@@ -50,68 +35,6 @@
 <div class="col s12 m4"></div>
 
 </div>
-
-
-
-
-
-
-<!-- Modal Trigger -->
-  
-
-  <!-- Modal Structure -->
-  <div id="modal1" class="modal">
-    <div class="modal-content">
-      <h4>Modal Header</h4>
-       <blockquote>
-        <p class="flow-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat voluptas repudiandae consectetur at ducimus itaque aspernatur ea voluptatum vitae rem eius dolorum expedita quos sapiente unde recusandae praesentium, corporis amet!</p>
-      </blockquote>
-    </div>
-    <div class="modal-footer">
-      <a href="#!" class="modal-close waves-effect waves-green btn-flat">x</a>
-    </div>
-  </div>
-
-  <!-- Modal Structure -->
-  <div id="modal2" class="modal">
-    <div class="modal-content">
-      <h4>Modal Header</h4>
-       <blockquote>
-        <p class="flow-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat voluptas repudiandae consectetur at ducimus itaque aspernatur ea voluptatum vitae rem eius dolorum expedita quos sapiente unde recusandae praesentium, corporis amet!</p>
-      </blockquote>
-    </div>
-    <div class="modal-footer">
-      <a href="#!" class="modal-close waves-effect waves-green btn-flat">x</a>
-    </div>
-  </div>
-
-  <!-- Modal Structure -->
-  <div id="modal3" class="modal">
-    <div class="modal-content">
-      <h4>Modal Header</h4>
-      <blockquote>
-        <p class="flow-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Placeat voluptas repudiandae consectetur at ducimus itaque aspernatur ea voluptatum vitae rem eius dolorum expedita quos sapiente unde recusandae praesentium, corporis amet!</p>
-      </blockquote>
-    </div>
-    <div class="modal-footer">
-      <a href="#!" class="modal-close waves-effect waves-green btn-flat">x</a>
-    </div>
-  </div>
-
-
-
-
-
-
-
-
-
-
-
-      
-
-
-
 
 
 

@@ -16,7 +16,7 @@
   <div class="col s12 m3"></div>
   <div class="col s12 m3">
 
-    <div class="circle z-depth-3 tooltipped" data-position="left" data-tooltip="Desarrollo patronaje chaqueta tipo vaquera" >
+    <div class="circle z-depth-3 tooltipped" data-position="left" data-tooltip="Desarrollo frente espalda" >
       <div class="circle__inner">
         <div class="circle__wrapper">
           <div class="circle__content">
@@ -29,12 +29,12 @@
      </div>
    </div>
  </div>
- <div class="col s12 m3 tooltipped" data-position="right" data-tooltip="PDF T plano" >
+ <div class="col s12 m3 tooltipped" data-position="right" data-tooltip="Desarrollo manga" >
   <div class="circle z-depth-3">
     <div class="circle__inner">
       <div class="circle__wrapper">
         <div class="circle__content">
-          <a href="https://drive.google.com/file/d/1sw5E8PgMN7JVnIo6Id4sLJSqhTO6prc1/view?usp=sharing" target="_blank">
+          <a href="https://drive.google.com/file/d/1EHzb8d-7M_fb1BBcVcrkdOQubM0SRKT3/view?usp=sharing" target="_blank">
             <img src="images/ic_tab_unselected_128.png" alt="" class="responsive-img centrar">
           </a>  
         </div>
@@ -66,7 +66,7 @@
             </div>
             <div class="card-content">
               <p class="center-align">
-                Desarrollo de molde delantero
+                Desarrollo de molde frente
               </p>
             </div>
 

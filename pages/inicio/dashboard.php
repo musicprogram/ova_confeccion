@@ -1,5 +1,5 @@
 <div class="container">
-  
+
 
 
 
@@ -162,7 +162,7 @@
       $('#foro').click(function(){
         $('#main_content').load('pages/foro/foro.php').slideDown(560);  
         $('#titulo_principal').html('<h1 class="header center white-text text-lighten-2">FORO</h1>');
-        $('#descripcion_titulo').html('Este módulo contiene los comentarios acerca de los proceso de confección'); 
+        $('#descripcion_titulo').html('Este módulo esta dirigido a la retroalimentación y aportes de los visitantes'); 
       });
 
       $('#trazoycorte').click(function(){
@@ -174,6 +174,7 @@
       $('#empresa').click(function(){
         $('#main_content').load('pages/empresa/empresa.php').slideDown(560);  
         $('#titulo_principal').html('<h1 class="header center white-text text-lighten-2">EMPRESAS</h1>');
+        $('#descripcion_titulo').html('Este módulo contiene información de los procesos productivos de las empresas manufactureras de Medellín-Antioquia');
       }); 
 
       $('#ficha_tecnica').click(function(){
@@ -211,4 +212,32 @@
 
 
 </script>
+
+
+<div class="right-align">
+
+  <p>
+    <b>
+      Elaborado por:
+    </b>
+     <br>
+    <small>
+     <b>
+      Diseñadoras de modas
+    </b> 
+    Karen Stefanny Parra, Adriana Fuentes, Bruny Bornachera
+    <br>
+    <b>
+      Desarrollador web
+    </b>
+    Juan Henao Rendón
+  </small>
+
+
+
+</p>  
+
+</div>
+
+
 </div>

@@ -20,12 +20,12 @@
   <div class="col s12 m3"></div>
   <div class="col s12 m3">
 
-    <div class="circle z-depth-3 tooltipped" data-position="left" data-tooltip="PDF T punto" >
+    <div class="circle z-depth-3 tooltipped" data-position="left" data-tooltip="Trazo muestra chaqueta vaquera talla 10" >
       <div class="circle__inner">
         <div class="circle__wrapper">
           <div class="circle__content">
-            <a href="https://drive.google.com/file/d/1sw5E8PgMN7JVnIo6Id4sLJSqhTO6prc1/view?usp=sharing" target="_blank">
-             <img src="images/ic_dialpad_128.png" alt="" class="responsive-img centrar">
+            <a href="https://drive.google.com/file/d/1kzG9C6eYHU4tknDRt5qTswupWW1xQ2wx/view?usp=sharing" target="_blank">
+             <img src="images/ic_local_print_shop_128.png" alt="" class="responsive-img centrar">
            </a>         
 
          </div>
@@ -33,13 +33,13 @@
      </div>
    </div>
  </div>
- <div class="col s12 m3 tooltipped" data-position="right" data-tooltip="PDF T plano" >
+ <div class="col s12 m3 tooltipped" data-position="right" data-tooltip="Trazo industrial talla 8-10-12-14" >
   <div class="circle z-depth-3">
     <div class="circle__inner">
       <div class="circle__wrapper">
         <div class="circle__content">
-          <a href="https://drive.google.com/file/d/1sw5E8PgMN7JVnIo6Id4sLJSqhTO6prc1/view?usp=sharing" target="_blank">
-            <img src="images/ic_tab_unselected_128.png" alt="" class="responsive-img centrar">
+          <a href="https://drive.google.com/file/d/12dDAIQuTVyG5BnPITDIqOJ4VHKiRZeG2/view?usp=sharing" target="_blank">
+            <img src="images/ic_local_print_shop_128.png" alt="" class="responsive-img centrar">
           </a>  
         </div>
       </div>

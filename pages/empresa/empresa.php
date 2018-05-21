@@ -1,9 +1,9 @@
   <script>
-  (function($){
-    $(function(){
+    (function($){
+      $(function(){
 
 
-      $('.tooltipped').tooltip();
+        $('.tooltipped').tooltip();
 
   }); // end of document ready
 })(jQuery); // end of jQuery name space
@@ -19,177 +19,316 @@
 
 
 <div class="row">
-    <div class="col s12 m1"></div>
+  <div class="col s12 m3"></div>
 
-  <div class="col s12 m2">
+  <div class="col s12 m3">
 
     <div class="card">
-      <div class="card-image waves-effect waves-block waves-light ">
-        <img class="activator" src="images/ic_account_balance_wallet_128.png">
+      <div class="card-image waves-effect waves-block waves-light separar">
+        <img class="activator" src="images/3337-PROINTEX-TINTORERIA.jpg">
       </div>
       <div class="card-content">
-        <span class="card-title activator grey-text text-darken-4">Empresa 1<i class="material-icons right">more_vert</i></span>
-       
+        <span class="card-title activator grey-text text-darken-4">Prointex<i class="material-icons right">more_vert</i></span>
+
       </div>
       <div class="card-reveal">
         <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
-        
+
+        <br>
+        <blockquote>
+         <p>
+          Esta empresa maneja los procesos de lavandería y acabados textiles con tecnología sostenible con el medio ambiente
+        </p>
+      </blockquote> 
+
+
+
+      <table>
+
+
+        <tbody>
+          <tr id="ver_video">
+
+          </tr>
+
+
+          <tr>
+            <td>1- Alistamiento de elementos</td>
+
+            <td>
+             <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="segundo_video">
+              <i class="material-icons Small">play_circle_outline</i>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>2- Base en papel</td>
+
+          <td>
+            <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="cuarto_video">
+              <i class="material-icons Small">play_circle_outline</i>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>3- Instrucciones iniciales</td>
+
+          <td>
+            <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="tercer_video">
+              <i class="material-icons Small">play_circle_outline</i>
+            </a>
+          </td>
+        </tr>
+
+        <tr>
+          <td>4- Revisión de trazo</td>
+
+          <td>
+            <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="quinto_video">
+              <i class="material-icons Small">play_circle_outline</i>
+            </a>
+          </td>
+        </tr>
+
+
+        <tr>
+          <td>5- Extendido</td>
+
+          <td>
+            <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="septimo_video">
+              <i class="material-icons Small">play_circle_outline</i>
+            </a>
+          </td>
+        </tr>
+
+
+      </tbody>
+    </table>
+  </div>
+</div>
+</div>
+<div class="col s12 m3">
+  <div class="card">
+    <div class="card-image waves-effect waves-block waves-light separar">
+      <img class="activator" src="images/logo-ci-jeans.png">
+    </div>
+    <div class="card-content">
+      <span class="card-title activator grey-text text-darken-4">CI Jeans<i class="material-icons right">more_vert</i></span>
+
+    </div>
+    <div class="card-reveal">
+      <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+      
+      <br>
+      <blockquote>
+       <p>
+        Esta empresa maneja procesos de lavandería y acabados textiles
+      </p>
+    </blockquote> 
 
 
 
     <table>
-      <thead>
-        <tr>
-          <th>Empresa 1</th>
 
-          <th></th>
-        </tr>
-      </thead>
 
       <tbody>
-        <tr id="ver_video">
+        <tr id="1ver_video">
 
         </tr>
 
-    
+
+        <tr>
+          <td>1- Tacking</td>
+
+          <td>
+           <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="1segundo_video">
+            <i class="material-icons Small">play_circle_outline</i>
+          </a>
+        </td>
+      </tr>
       <tr>
-        <td>1- Alistamiento de elementos</td>
+        <td>2- Resina pigmentada</td>
 
         <td>
-         <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="segundo_video">
-          <i class="material-icons Small">play_circle_outline</i>
-        </a>
-      </td>
-    </tr>
+          <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="1cuarto_video">
+            <i class="material-icons Small">play_circle_outline</i>
+          </a>
+        </td>
+      </tr>
+      
+
       <tr>
-      <td>2- Base en papel</td>
+        <td>3- Resina pigmentada horizontal</td>
 
-      <td>
-        <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="cuarto_video">
-          <i class="material-icons Small">play_circle_outline</i>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>3- Instrucciones iniciales</td>
+        <td>
+          <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="1quinto_video">
+            <i class="material-icons Small">play_circle_outline</i>
+          </a>
+        </td>
+      </tr>
 
-      <td>
-        <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="tercer_video">
-          <i class="material-icons Small">play_circle_outline</i>
-        </a>
-      </td>
-    </tr>
-    
-    <tr>
-      <td>4- Revisión de trazo</td>
+      <tr>
+        <td>4- Resina spray</td>
 
-      <td>
-        <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="quinto_video">
-          <i class="material-icons Small">play_circle_outline</i>
-        </a>
-      </td>
-    </tr>
+        <td>
+          <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="1tercer_video">
+            <i class="material-icons Small">play_circle_outline</i>
+          </a>
+        </td>
+      </tr>
 
 
-    <tr>
-      <td>5- Extendido</td>
+      <tr>
+        <td>5- Motortool</td>
 
-      <td>
-        <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="septimo_video">
-          <i class="material-icons Small">play_circle_outline</i>
-        </a>
-      </td>
-    </tr>
+        <td>
+          <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="1sexto_video">
+            <i class="material-icons Small">play_circle_outline</i>
+          </a>
+        </td>
+      </tr>
 
 
-  </tbody>
-</table>
-      </div>
-    </div>
-  </div>
-  <div class="col s12 m2">
-    <div class="card">
-      <div class="card-image waves-effect waves-block waves-light  ">
-        <img class="activator" src="images/ic_assignment_128.png">
-      </div>
-      <div class="card-content">
-        <span class="card-title activator grey-text text-darken-4">Empresa 2<i class="material-icons right">more_vert</i></span>
-       
-      </div>
-      <div class="card-reveal">
-        <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-        <p>Here is some more information about this product that is only revealed once clicked on.</p>
-      </div>
-    </div>
+      <tr>
+        <td>6- Motor laser</td>
 
-  </div>
-  <div class="col s12 m2">
+        <td>
+          <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="2sexto_video">
+            <i class="material-icons Small">play_circle_outline</i>
+          </a>
+        </td>
+      </tr>
 
-    <div class="card">
-      <div class="card-image waves-effect waves-block waves-light ">
-        <img class="activator" src="images/ic_crop_original_128.png">
-      </div>
-      <div class="card-content">
-        <span class="card-title activator grey-text text-darken-4">Empresa 3<i class="material-icons right">more_vert</i></span>
-        
-      </div>
-      <div class="card-reveal">
-        <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-        <p>Here is some more information about this product that is only revealed once clicked on.</p>
-      </div>
-    </div>
-  </div>
-   <div class="col s12 m2">
 
-    <div class="card">
-      <div class="card-image waves-effect waves-block waves-light ">
-        <img class="activator" src="images/ic_now_wallpaper_128.png">
-      </div>
-      <div class="card-content">
-        <span class="card-title activator grey-text text-darken-4">Empresa 4<i class="material-icons right">more_vert</i></span>
-        
-      </div>
-      <div class="card-reveal">
-        <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-        <p>Here is some more information about this product that is only revealed once clicked on.</p>
-      </div>
-    </div>
-  </div>
-  <div class="col s12 m2">
+      <tr>
+        <td>7- Laser parte trasera</td>
 
-    <div class="card">
-      <div class="card-image waves-effect waves-block waves-light ">
-        <img class="activator" src="images/ic_now_wallpaper_128.png">
-      </div>
-      <div class="card-content">
-        <span class="card-title activator grey-text text-darken-4">Empresa 4<i class="material-icons right">more_vert</i></span>
-        
-      </div>
-      <div class="card-reveal">
-        <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
-        <p>Here is some more information about this product that is only revealed once clicked on.</p>
-      </div>
-    </div>
-  </div>
-  <div class="col s12 m1"></div>
+        <td>
+          <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="3sexto_video">
+            <i class="material-icons Small">play_circle_outline</i>
+          </a>
+        </td>
+      </tr>
+
+
+
+      <tr>
+        <td>8- Laser parte delantera</td>
+
+        <td>
+          <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="4sexto_video">
+            <i class="material-icons Small">play_circle_outline</i>
+          </a>
+        </td>
+      </tr>
+
+
+      <tr>
+        <td>9- Handsand en doble</td>
+
+        <td>
+          <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="5sexto_video">
+            <i class="material-icons Small">play_circle_outline</i>
+          </a>
+        </td>
+      </tr>
+
+
+
+      <tr>
+        <td>10- Grinding</td>
+
+        <td>
+          <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="6sexto_video">
+            <i class="material-icons Small">play_circle_outline</i>
+          </a>
+        </td>
+      </tr>
+
+
+      <tr>
+        <td>11- Espumante</td>
+
+        <td>
+          <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="7sexto_video">
+            <i class="material-icons Small">play_circle_outline</i>
+          </a>
+        </td>
+      </tr>
+
+
+      <tr>
+        <td>12- Bigotes en inflable</td>
+
+        <td>
+          <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="8sexto_video">
+            <i class="material-icons Small">play_circle_outline</i>
+          </a>
+        </td>
+      </tr>
+
+      <tr>
+        <td>13- Arrugas trinox</td>
+
+        <td>
+          <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="9sexto_video">
+            <i class="material-icons Small">play_circle_outline</i>
+          </a>
+        </td>
+      </tr>
+
+      <tr>
+        <td>14- Arrugas bohemia parte trasera</td>
+
+        <td>
+          <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="10sexto_video">
+            <i class="material-icons Small">play_circle_outline</i>
+          </a>
+        </td>
+      </tr>
+
+
+      <tr>
+        <td>15- Arrugas bohemia parte delantera</td>
+
+        <td>
+          <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="11sexto_video">
+            <i class="material-icons Small">play_circle_outline</i>
+          </a>
+        </td>
+      </tr>
+
+      <tr>
+        <td>16- Spray figura</td>
+
+        <td>
+          <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="12sexto_video">
+            <i class="material-icons Small">play_circle_outline</i>
+          </a>
+        </td>
+      </tr>
+
+
+
+
+
+
+
+
+
+
+
+    </tbody>
+  </table>
+</div>
+</div>
+
 </div>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div class="col s12 m3"></div>
+</div>
 
 
 
@@ -288,11 +427,121 @@
       ver_video();
     })
 
-   
+
+
+
+
+
+
+
+    $('#1segundo_video').click(function(){
+     $("#videos_confeccion").attr("src","https://www.youtube.com/embed/oYj4p9-27TM");
+     ver_video1();
+   })
+
+    $('#1tercer_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/vXyjNeNIqOU");
+      ver_video1();
+    })
+
+    $('#1cuarto_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/1PzmkL3XdSQ");
+      ver_video1();
+    })
+
+    $('#1quinto_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/vUqmnmoP1I8");
+      ver_video1();
+    })
+
+    $('#1sexto_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/ghmwB87sc5o");
+      ver_video1();
+    })
+
+
+
+
+
+    $('#2sexto_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/kNt4EnCwx9s");
+      ver_video1();
+    })
+
+
+    $('#3sexto_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/kHvz9T6wjzc");
+      ver_video1();
+    })
+
+
+    $('#4sexto_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/GXmJ_NWYO_o");
+      ver_video1();
+    })
+
+    $('#5sexto_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/9-FISdojiUE");
+      ver_video1();
+    })
+
+
+    $('#6sexto_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/jREbTbbfMPs");
+      ver_video1();
+    })
+
+
+    $('#7sexto_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/M11jazr5YqI");
+      ver_video1();
+    })
+
+
+    $('#8sexto_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/Ndjjsdp4TVs");
+      ver_video1();
+    })
+
+
+    $('#9sexto_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/tVRl4pBtAdU");
+      ver_video1();
+    })
+
+    $('#10sexto_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/61DkoDt2V6A");
+      ver_video1();
+    })
+
+    $('#11sexto_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/51y368BvnXM");
+      ver_video1();
+    })
+
+
+    $('#12sexto_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/Ppc4zVR-CnU");
+      ver_video1();
+    })
+
+
+
+
+
+
     function ver_video(){
       $('#ver_video').html('<td>seguir viendo el vídeo</td> <td> <a class="waves-effect waves-light btn modal-trigger teal accent-4 pulse" href="#modal1"> <i class="material-icons Small">play_circle_outline</i> </a> </td>');
 
     }
+
+
+    function ver_video1(){
+      $('#1ver_video').html('<td>seguir viendo el vídeo</td> <td> <a class="waves-effect waves-light btn modal-trigger teal accent-4 pulse" href="#modal1"> <i class="material-icons Small">play_circle_outline</i> </a> </td>');
+
+    }
+
+
 
     /* cambiar el color del boton cuando se pasa de sección */
     $("ul#list_videos li a i").click(function() {
