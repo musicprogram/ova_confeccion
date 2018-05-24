@@ -53,7 +53,7 @@
 
 
           <tr>
-            <td>1- Alistamiento de elementos</td>
+            <td>1- Acabo laser</td>
 
             <td>
              <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="segundo_video">
@@ -62,16 +62,7 @@
           </td>
         </tr>
         <tr>
-          <td>2- Base en papel</td>
-
-          <td>
-            <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="cuarto_video">
-              <i class="material-icons Small">play_circle_outline</i>
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td>3- Instrucciones iniciales</td>
+          <td>2- Acabados tejido punto</td>
 
           <td>
             <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="tercer_video">
@@ -79,9 +70,18 @@
             </a>
           </td>
         </tr>
+        <tr>
+          <td>3- Ejecución del patrón sobre la prenda 2</td>
+
+          <td>
+            <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="cuarto_video">
+              <i class="material-icons Small">play_circle_outline</i>
+            </a>
+          </td>
+        </tr>
 
         <tr>
-          <td>4- Revisión de trazo</td>
+          <td>4- Ejecución del patrón sobre la prenda 3</td>
 
           <td>
             <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="quinto_video">
@@ -92,10 +92,87 @@
 
 
         <tr>
-          <td>5- Extendido</td>
+          <td>5- Ejecución del patrón sobre la prenda </td>
+
+          <td>
+            <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="sexto_video">
+              <i class="material-icons Small">play_circle_outline</i>
+            </a>
+          </td>
+        </tr>
+
+
+        <tr>
+          <td>6- Ejecución del patrón sobre la manga</td>
 
           <td>
             <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="septimo_video">
+              <i class="material-icons Small">play_circle_outline</i>
+            </a>
+          </td>
+        </tr>
+
+
+        <tr>
+          <td>7- Marcación figuras complejas</td>
+
+          <td>
+            <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="octavo_video">
+              <i class="material-icons Small">play_circle_outline</i>
+            </a>
+          </td>
+        </tr>
+
+
+        <tr>
+          <td>8- Marcaciones bigotes para corte laser</td>
+
+          <td>
+            <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="noveno_video">
+              <i class="material-icons Small">play_circle_outline</i>
+            </a>
+          </td>
+        </tr>
+
+
+        <tr>
+          <td>9- Perforación laser sobre la prenda</td>
+
+          <td>
+            <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="decimo_video">
+              <i class="material-icons Small">play_circle_outline</i>
+            </a>
+          </td>
+        </tr>
+
+
+        <tr>
+          <td>10- Preparación de la prenda para la ilustración laser</td>
+
+          <td>
+            <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="once_video">
+              <i class="material-icons Small">play_circle_outline</i>
+            </a>
+          </td>
+        </tr>
+
+
+        <tr>
+          <td>11- Preparación del patron a imprimir sobre la prenda</td>
+
+          <td>
+            <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="doce_video">
+              <i class="material-icons Small">play_circle_outline</i>
+            </a>
+          </td>
+        </tr>
+
+
+        <tr>
+          <td>12- Visualización previa del patrón sobre la prenda</td>
+
+          <td>
+            <a class="waves-effect waves-light btn modal-trigger teal accent-4" href="#modal1" id="trece_video">
               <i class="material-icons Small">play_circle_outline</i>
             </a>
           </td>
@@ -403,29 +480,79 @@
     
 
     $('#segundo_video').click(function(){
-     $("#videos_confeccion").attr("src","https://www.youtube.com/embed/mVEm3WXz08Y");
+     $("#videos_confeccion").attr("src","https://www.youtube.com/embed/S_Xc0t1tKPU");
      ver_video();
    })
 
     $('#tercer_video').click(function(){
-      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/GQD6qQ17f0Y");
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/1FJY2GKle-c");
       ver_video();
     })
 
     $('#cuarto_video').click(function(){
-      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/E1HsaXSAJH8");
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/ZlEt4BJ0_a4");
       ver_video();
     })
 
     $('#quinto_video').click(function(){
-      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/Gg0bg1UqZ2A");
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/v5AEVjz9PWk");
       ver_video();
     })
 
     $('#sexto_video').click(function(){
-      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/2ufW6eyeRCY?ecver=2");
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/-gAqD-ZjYIM");
       ver_video();
     })
+
+     $('#septimo_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/XGO-sMTufAY");
+      ver_video();
+    })
+
+    $('#octavo_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/AoiXkPZFXEo");
+      ver_video();
+    })
+
+    $('#noveno_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/ACglClf4X08");
+      ver_video();
+    })
+
+
+    $('#decimo_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/TIgQmpnhD9o");
+      ver_video();
+    })
+
+    $('#once_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/yZvJt3WUh8w");
+      ver_video();
+    })
+
+
+    $('#doce_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/oo6Eno91GmQ");
+      ver_video();
+    })
+
+
+    $('#trece_video').click(function(){
+      $("#videos_confeccion").attr("src","https://www.youtube.com/embed/27FeJAB9_sI");
+      ver_video();
+    }) 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

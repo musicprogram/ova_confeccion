@@ -12,8 +12,15 @@
 </script>
 
 
+<div class="center-align">
+  
 
+<h5 class="teal-text text-accent-4">
+  El trazo solo puede imprimirse en un plotter de impresión con la extensión .PLT a escala real
+</h5> 
+     
 
+</div>
 
 
 <div class="row">
@@ -24,10 +31,11 @@
       <div class="circle__inner">
         <div class="circle__wrapper">
           <div class="circle__content">
-            <a href="https://drive.google.com/file/d/1kzG9C6eYHU4tknDRt5qTswupWW1xQ2wx/view?usp=sharing" target="_blank">
+            <a href="https://docs.google.com/uc?export=download&id=1kzG9C6eYHU4tknDRt5qTswupWW1xQ2wx" target="_blank">
              <img src="images/ic_local_print_shop_128.png" alt="" class="responsive-img centrar">
+             
            </a>         
-
+         
          </div>
        </div>
      </div>
@@ -38,8 +46,9 @@
     <div class="circle__inner">
       <div class="circle__wrapper">
         <div class="circle__content">
-          <a href="https://drive.google.com/file/d/12dDAIQuTVyG5BnPITDIqOJ4VHKiRZeG2/view?usp=sharing" target="_blank">
+          <a href="https://docs.google.com/uc?export=download&id=12dDAIQuTVyG5BnPITDIqOJ4VHKiRZeG2" target="_blank">
             <img src="images/ic_local_print_shop_128.png" alt="" class="responsive-img centrar">
+            
           </a>  
         </div>
       </div>
