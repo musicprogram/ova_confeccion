@@ -12,15 +12,6 @@
 </script>
 
 
-<div class="center-align">
-  
-
-<h5 class="teal-text text-accent-4">
-  El trazo solo puede imprimirse en un plotter de impresión con la extensión .PLT a escala real
-</h5> 
-     
-
-</div>
 
 
 <div class="row">
@@ -61,6 +52,15 @@
 </div>
 
 
+<div class="center-align">
+  
+
+<h5 class="teal-text text-accent-4">
+  El trazo solo puede imprimirse en un plotter de impresión con la extensión .PLT a escala real
+</h5> 
+     
+
+</div>
 
 
 
